@@ -1,0 +1,25 @@
+{
+  "name": "luangoncalves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luantrsf/luangoncalves.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luantrsf/luangoncalves/issues"
+  },
+  "homepage": "https://github.com/luantrsf/luangoncalves#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
